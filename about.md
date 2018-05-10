@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<div class="rohit-image">
+<div class="center-image">
 <img src="/assets/img/SAM_0359.1.jpg" height="400px" width="200px"/>
 </div>
 <br><br>

@@ -4,8 +4,11 @@ title:  "Summer of '18"
 date:   2018-05-10 12:14:47 +0530
 categories: jekyll update
 ---
-
-I will be using this blog as a medium to document all that I learn this summer. I intend to implement 2-3 projects to showcase the stuff that I have learned over the course of the Summer. I plan to write atleast one blog article per week describing my progress but I might write more if I have some good content. I am sure you guys will learn a lot along with me in the days to come.
+<div class="center-image">
+![summer](/assets/img/summer_hero.png)
+</div>
+<br>
+I will be using this blog as a medium to document all that I learn this summer. I intend to apply my learnings to practical projects. I plan to write atleast one blog article per week describing my progress but I might write more if I have some good content. I am sure you guys will learn a lot along with me in the days to come.
 
 Below is a list of topics that I plan to devote my time to this summer.
 
@@ -17,3 +20,8 @@ Below is a list of topics that I plan to devote my time to this summer.
 ### Miscellaneous:
 * Cooking.
 * Playing the ukulele.
+
+This list is going to be dynamic and I am going to modify it as the summer progresses.<br>
+Further I am going to take up the [#100DaysOfCode](http://www.100daysofcode.com/) challenge and track my progress on GitHub [here](https://github.com/rsarky/100-days-of-code)
+
+Here's to a summer full of learning.

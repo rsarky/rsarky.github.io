@@ -1,3 +1,39 @@
 .center-image {
     text-align: center;
 }
+
+.contact-list,
+.social-media-list {
+  list-style: none;
+  margin-left: 0;
+}
+
+
+.svg-icon {
+    width: 16px;
+    padding-top: 5px;
+    height: 16px;
+    display: inline-block;
+    padding: 5px 3px 2px 5px;
+    vertical-align: text-bottom;
+}
+
+.social-media-list {
+    margin: 0 auto;
+    li {
+      float: left;
+      margin-left: 10px;
+      &:first-of-type { margin-left: 0 }
+      &:last-of-type { margin-right: 0 }
+      a {
+        display: block;
+        padding: $spacing-unit / 4;
+        border: 1px solid $grey-color-light
+      }
+      &:hover .svg-icon { fill: currentColor; }
+    }
+  }
+
+  .social-media-list li + li {
+    padding-top: 0px;
+}

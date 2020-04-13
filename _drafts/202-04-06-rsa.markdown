@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "RSA Algorithm"
+date:   2020-04-06 12:14:47 +0530
+categories: learning cryptography
+---
+
+## Steps
+- Modular Exponentiation
+[Wikipedia Article](https://en.wikipedia.org/wiki/Modular_exponentiation)

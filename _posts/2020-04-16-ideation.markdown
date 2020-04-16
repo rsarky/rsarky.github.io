@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "Ideation"
+date:   2020-04-16 11:00:30 +0530
+categories: misc
+---
+
+A number of times I want to build a side project but I find it difficult getting started.        
+Or I start hacking on a new idea, lose interest mid way, and the project gets shelved.
+I have tried to build a framework that helps me through the ideation process.
+A core tenet of this framework is thinking of programming like any other creative pursuit.
+These problems are certainly not unique to developers, they are faced by creators in general. Drawing 
+parallels between the issues that a developer might face during the ideation process to how an artist 
+might think about the same issues helps to look at things from a different perspective.
+A well written software project is no different from a fine piece of art.
+
+Here is some commonly given advice about looking for side project ideas:
+- Build something that you are passionate about/interested in.
+- Build something that scratches your own itch.
+
+Although there is nothing objectively wrong in these statements it is difficult to actually apply them.
+It is not easy to judge your passion or interest for something without trying it out. It's not always the case 
+that you have an _itch to scratch_. If you already have an _itch to scratch_ your ideation problem is solved to a certain extent.
+
+I have listed down some broad guidelines that might help when thinking about what to make for the next side project: 
+1. Keep a note of any project ideas that occur during day to day life. [Github](www.github.com), [Reddit](www.reddit.com), [Hackernews](news.ycombinator.com) etc. can be a good source of inspiration for this. You can either choose a project idea and then choose the appropriate tools; languages, technologies  etc. for solving the problem. It's also possible to go in the opposite direction. Say that you are really interested in functional programming and want to learn Haskell. You can try to think about projects that Haskell is suited to, a compiler for example.
+2. Choose an idea from the ones in this list to work on. The choice will depend on various factors like the amount of time you are willing to spend on the side project,
+the complexity of the idea etc. Spending too much time while finalising a project idea to work on is counter productive. Set a hard time limit on yourself
+of around half an hour to an hour in which you need to choose an idea.
+A problem that I faced during this process was the fact that someone had already built the thing that I was thinking of building. This is where thinking of programming as an art form made me realise that this is completely fine. Art often doesn't have a unique precedent.
+There must be tons of [amazing sketches of deadpool](https://www.google.com/search?q=sketchs+of+deadpool&tbm=isch&ved=2ahUKEwirpemMlezoAhXixHMBHfktA7IQ2-cCegQIABAA&oq=sketchs+of+deadpool&gs_lcp=CgNpbWcQAzoECCMQJzoECAAQQzoCCAA6BQgAEIMBOgYIABAKEBhQ9AtY5YcBYI6KAWgAcAB4AIABmwGIAdoNkgEEMTUuNJgBAKABAaoBC2d3cy13aXotaW1n&sclient=img&ei=i-aXXuuzL-KJz7sP-duMkAs&bih=659&biw=1358), but that doesn't make any one less brilliant than the other.
+It's also important to have in mind the reason that you took up the side project, for instance even if you decide to make another _todo_ web app, as long as you are
+learning from the experience and are motivated by the end result, it's worth it.
+3. Once you have finalised on an idea, it's important to chalk out a high level plan of how you want to tackle the problem instead of jumping right into the code.
+This will allow you to have a big picture in mind as you work. Having a big picture in mind helps in not getting bogged down by irrelevant details at the start of a project. For instance, when building a _todo_ app, spending a couple of hours deciding what color you want your background to be is not productive. This leads to a feeling of lack of progress and you are prone to give up on the project.
+Divide your problem into smaller independent tasks. Completing these small tasks will keep you motivated
+by setting up a positive feedback loop.
+<br><br><br>
+#### Some resources
+- [George Hotz's programming streams](https://www.youtube.com/watch?v=7Hlb8YX2-W8&list=PLzFUMGbVxlQs5s-LNAyKgcq5SL28ZLLKC) are a great source of inspiration.
+- [r/coolgithubprojects](https://www.reddit.com/r/coolgithubprojects/), [r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/), [r/ProgrammingPrompts](https://www.reddit.com/r/ProgrammingPrompts/)

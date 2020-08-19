@@ -156,6 +156,9 @@ Ralf for being available inspite of their busy schedules. Their input was
 invaluable throughout the project. Daniel was very patient while reviewing my
 patches sent to the Patchwork mailing list.
 
+Note: Some rough notes about PaStA and Patchwork can also be found in my
+[braindump](https://rsarky.github.io/braindump/index.html)
+
 [1]: {% post_url 2020-06-09-pasta %}
 [2]: https://github.com/getpatchwork/patchwork
 [3]: https://public-inbox.org/README.html
